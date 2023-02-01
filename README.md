@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abeldiva
+- 👋 Hi, I’m @Faith
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning landing pages and Digital Marketing
 - 💞️ I’m looking to collaborate on codes and Mobile App Development
